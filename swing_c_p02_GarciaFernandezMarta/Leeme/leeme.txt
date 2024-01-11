@@ -1,0 +1,21 @@
+﻿swing_c_p02_GarciaFernandezMarta
+
+Descripción General del Proyecto:
+
+
+Este proyecto se enfoca en el desarrollo de una aplicación de gestión de reservas para una plataforma de alquiler turístico. A lo largo del código, he priorizado la autodocumentación mediante comentarios claros y concisos.
+
+
+Autodocumentación con JAutodoc:
+
+
+A pesar de intentar utilizar el plugin de Eclipse 'JAutodoc', enfrenté dificultades para generar documentación automáticamente. En consecuencia, he optado por comentar el código manualmente para mantener una estructura clara y legible.
+
+
+Componente Adicional y Mejoras de Interfaz:
+
+
+He añadido el componente JScrollPane a la interfaz principal 'Ventana Diálogo'. Esta adición resuelve un problema detectado al ejecutar el programa en la pantalla del portátil, donde la visualización de los paneles dificultaba el acceso a los botones inferiores. El JScrollPane facilita la navegación y mejora la experiencia del usuario.
+
+
+Aunque no requerido por el proyecto, he incluido el uso de ToolTipText para los botones de iconos, proporcionando información adicional al usuario. Sin embargo, este detalle no se ha implementado en la barra de desplazamiento.
