@@ -21,10 +21,13 @@ Para utilizar la aplicación sigue los siguientes pasos:
 - **Linea de comandos**
   
 Nota: Se necesita tener configurado JAVA para poder ser utilizado en la línea de comandos.
-
-`[Directorio en el que se encuentre el ejecutable]> java -jar swing_c_p02_GarciaFernandezMarta.jar`
+```
+[Directorio dodne se encuentre el ejecutable]> java -jar swing_c_p02_GarciaFernandezMarta.jar`
+```
 o
-`[Cualquier directorio]> java -jar [Directorio en el que se encuentre el ejecutable]\swing_c_p02_GarciaFernandezMarta.jar`
+```
+[Cualquier directorio]> java -jar [Directorio donde se encuentre el ejecutable]\swing_c_p02_GarciaFernandezMarta.jar`
+```
 
 ## 🔧 Construido con
 - **Lenguaje:** Java
