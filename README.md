@@ -46,9 +46,8 @@ Si deseas contribuir al proyecto, por favor sigue las siguientes pautas:
 5. Envía un pull request.
 
 ## ✍ Autores
-- Marta García Fernández - Desarrollador principal
-  
-[@Glootie-MGF](https://github.com/Glootie-MGF)
+- [@Glootie-MGF](https://github.com/Glootie-MGF)
+Marta García Fernández - Desarrollador principal
 
 ## 🔓 Licencia
 Este proyecto está licenciado bajo la Licencia GPL 3.0
