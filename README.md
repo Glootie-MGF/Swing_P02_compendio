@@ -47,6 +47,7 @@ Si deseas contribuir al proyecto, por favor sigue las siguientes pautas:
 
 ## ✍ Autores
 - Marta García Fernández - Desarrollador principal
+  
 [@Glootie-MGF](https://github.com/Glootie-MGF)
 
 ## 🔓 Licencia
